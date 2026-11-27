@@ -1,0 +1,1 @@
+Repository for a barebones static HTML personal website to be hosted through github pages
